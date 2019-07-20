@@ -1,3 +1,9 @@
+<h1 align="center">自律阅读系列</h1>
+<h4 align="center">阅读计划excel！帮助有效阅读</h4>
+<br>
+<p align="center">
+    <a title="Hits" target="_blank" href="https://github.com/wangxinleo/readlist"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
+  
 # 读书计划 简介
 作者@wangxinleo在日常学习中经常整理的一个读书计划模板。套用了小能熊课程中的给的读书计划思路，整理近几年读的书籍汇成一个可视化的excel表格。
 希望这个表格可以给各位未来学习者提供参考，并且激励自己在未来学习路程中不断向前。
