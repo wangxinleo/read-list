@@ -1,17 +1,21 @@
 <h1 align="center">自律阅读系列</h1>
 <h4 align="center">阅读计划excel！帮助有效阅读</h4>
-<br>
-<p align="center">
-    <a title="Hits" target="_blank" href="https://github.com/wangxinleo/readlist"><img src="https://hits.b3log.org/b3log/30-seconds-zh_CN.svg"></a>
-  
-# 读书计划 简介
-作者@wangxinleo在日常学习中经常整理的一个读书计划模板。套用了小能熊课程中的给的读书计划思路，整理近几年读的书籍汇成一个可视化的excel表格。
+[![](https://img.shields.io/github/issues/wangxinleo/AutoAnswerDemo.svg)](https://github.com/wangxinleo/AutoAnswerDemo/issues)  [![](https://img.shields.io/github/forks/wangxinleo/AutoAnswerDemo.svg)](https://github.com/wangxinleo/AutoAnswerDemo/network) [![](https://img.shields.io/github/stars/wangxinleo/AutoAnswerDemo.svg)](https://github.com/wangxinleo/AutoAnswerDemo/stargazers)[![wangxinleo/AutoAnswerDemo](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
+
+一个读书计划模板。套用了小能熊课程中的给的读书计划思路，整理近几年读的书籍汇成一个可视化的excel表格。
 希望这个表格可以给各位未来学习者提供参考，并且激励自己在未来学习路程中不断向前。
+
+## 目录
+-----------------
+- [样例截图](#读书计划部分截图)
+- [用前说明](#用前说明)
+- [使用说明](#使用说明)
+- [相关参数](#“学习闭环”中的列值说明)
 ## 读书计划部分截图
-![读书行动](https://raw.githubusercontent.com/wangxinleo/readlist/master/1.png)
-![阅读主题](https://raw.githubusercontent.com/wangxinleo/readlist/master/2.png)
-![数据分析](https://raw.githubusercontent.com/wangxinleo/readlist/master/3.png)
-## 使前说明
+![读书行动](https://raw.githubusercontent.com/wangxinleo/readlist/master/img/1.png)
+![阅读主题](https://raw.githubusercontent.com/wangxinleo/readlist/master/img/2.png)
+![数据分析](https://raw.githubusercontent.com/wangxinleo/readlist/master/img/3.png)
+## 用前说明
 ### 什么是费曼技巧
 通俗一点来说，费曼技巧就是在学习知识之后，尝试用自己的语言将知识说出来。如果在说的过程中卡壳或无法用通俗易懂的语言解释专业的概念，就说明知识掌握不到位，需要重新复习。费曼的过程就相当于一个传授给其他人的过程。
 ### 什么书适合快读，什么书适合慢读
