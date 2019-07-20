@@ -1,10 +1,10 @@
 <h1 align="center">自律阅读系列</h1>
 <h4 align="center">阅读计划excel！帮助有效阅读</h4>
-[![](https://img.shields.io/github/issues/wangxinleo/readlist.svg)](https://github.com/wangxinleo/readlist/issues)  [![](https://img.shields.io/github/forks/wangxinleo/readlist.svg)](https://github.com/wangxinleo/readlist/network) [![](https://img.shields.io/github/stars/wangxinleo/readlist.svg)](https://github.com/wangxinleo/readlist/stargazers)[![wangxinleo/readlist](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
 
 一个读书计划模板。套用了小能熊课程中的给的读书计划思路，整理近几年读的书籍汇成一个可视化的excel表格。
 希望这个表格可以给各位未来学习者提供参考，并且激励自己在未来学习路程中不断向前。
 
+[![](https://img.shields.io/github/issues/wangxinleo/readlist.svg)](https://github.com/wangxinleo/readlist/issues)  [![](https://img.shields.io/github/forks/wangxinleo/readlist.svg)](https://github.com/wangxinleo/readlist/network) [![](https://img.shields.io/github/stars/wangxinleo/readlist.svg)](https://github.com/wangxinleo/readlist/stargazers)[![wangxinleo/readlist](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
 ## 目录
 -----------------
 - [样例截图](#读书计划部分截图)
